@@ -13,7 +13,7 @@ End-to-end real estate analytics project leveraging SQL and Tableau to analyze h
 ### Interactive Dashboard
 
 🔗 **View Dashboard Here:**  
-[https://public.tableau.com/app/profile/aryan.soni1850/viz/NashvilleHousingMarketAnalysis20132016/Dashboard1]
+https://public.tableau.com/app/profile/aryan.soni1850/viz/NashvilleHousingMarketAnalysis20132016/Dashboard1
 
 ---
 
