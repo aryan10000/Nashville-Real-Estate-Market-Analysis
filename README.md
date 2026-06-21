@@ -173,3 +173,4 @@ This project demonstrates how housing transaction data can be transformed into s
 ## Author
 
 Aryan Soni
+Data Analyst | SQL | Python | Power BI | Tableau | Excel
